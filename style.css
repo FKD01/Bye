@@ -1,0 +1,16 @@
+
+
+html.index{
+    background-image:url("https://myswitzerland.com.hk/static/media/standard/skiing-in-switzerland-best-resorts-le-touno-anniviers-switzerland-april-2026--std1200.jpg");
+    background-size:cover;
+}
+
+table{
+    background:white;
+}
+ol {
+    color:white;
+}
+a {
+    color:cyan;
+}
